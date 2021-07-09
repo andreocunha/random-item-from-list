@@ -1,0 +1,24 @@
+{
+  "name": "random-item-from-list",
+  "version": "1.0.0",
+  "description": "Retorna um item aleatoriamente de uma lista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreocunha/random-item-from-list.git"
+  },
+  "keywords": [
+    "random",
+    "list",
+    "item"
+  ],
+  "author": "Andre Oliveira Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreocunha/random-item-from-list/issues"
+  },
+  "homepage": "https://github.com/andreocunha/random-item-from-list#readme"
+}
